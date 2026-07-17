@@ -44,6 +44,10 @@ Utiliza una variable de error para decidir cuándo debe avanzar en el eje horizo
 
 Una de sus ventajas principales es que trabaja únicamente con números enteros, por lo que evita cálculos con punto flotante.
 
+
+## Imagen de las líneas creadas por cada método
+<img width="789" height="624" alt="captura lineas" src="https://github.com/user-attachments/assets/d55a6b2c-f639-4bcf-a0da-bbee96f82ff8" />
+
 ## Resultado
 
 La siguiente imagen fue generada utilizando el algoritmo de Bresenham:
